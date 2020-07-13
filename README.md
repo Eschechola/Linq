@@ -1,4 +1,4 @@
 # Medium-LINQ
 Exemplo de uso de LINQ para artigo no medium.
 <br>
-Link: https://medium.com/@lucas.eschechola/linq-menos-esfor%C3%A7o-mais-dados-7354640afba1
+Link: https://eschechola.com.br/2020/01/27/linq-menos-esforco-mais-dados
